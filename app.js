@@ -4,17 +4,6 @@ const app = express();
 
 app.use(express.json());
 
-/** 
- *  Anotações:
- *
- *  Verbos HTTP
- *  GET: Receber dados de um Resource.
- *  POST: Enviar dados ou informações para serem  processados por um Resource.
- *  PUT: Atualizar dados de um Resource.
- *  DELETE: Deletar um Resource.
- * */ 
-
-
 const product = [];
 
 /**
@@ -22,8 +11,6 @@ const product = [];
  *  Params -> /product/2238723907283
  *  Query -> /product/id=12312312312312value=312342134123124
  */
-
-
 
 app.post("/products", (request, reponse) => {
     // Nome e Preço => Name and Price
