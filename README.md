@@ -1,6 +1,4 @@
-# API, REST e RESTFUL
-
-- ANOTAÇÃO IMPORTANTE: PARA CRIAR UM PACKAGE.JSON -> NPM (OU YARN, SE ESTIVER INSTALADO) INIT (ACRESCENTAR -Y PARA CRIAR DIRETAMENTE SEM PERGUNTAR). PARA ADICIONAR UM FRAMEWORK JÁ INSTALADO NA MÁQUINA -> NPM ADD ... (NOME DO FRAMEWORK).
+# Projeto | API, REST e RESTFUL | Cadastro de Clientes
 
 ## API
 
@@ -71,3 +69,11 @@ RESTful, é a aplicação dos padrões REST.
   - 404: Not Found!
 - 5xx: Server Error
   500: Internal Server Error
+***
+- __ANOTAÇÃO IMPORTANTE__: PARA CRIAR UM PACKAGE.JSON -> __NPM__ (OU YARN, SE ESTIVER INSTALADO) __INIT__ (ACRESCENTAR __-Y__ PARA CRIAR DIRETAMENTE SEM PERGUNTAR). PARA ADICIONAR UM FRAMEWORK JÁ INSTALADO NA MÁQUINA -> __NPM ADD__ ... (__NOME__ DO FRAMEWORK).
+***
+- Projeto realizado com o objetivo de aprender mais sobre __REST__ e __RESTFUL__.
+- Tercnologias utilizadas: __Node.js__ e __Express.js__
+***
+### Situação do projeto: Finalizado :heavy_check_mark:
+***
